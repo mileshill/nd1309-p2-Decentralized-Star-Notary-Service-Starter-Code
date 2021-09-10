@@ -5,3 +5,9 @@
 - StarName: "MilesUdacityStar"
 - StarSymbol: "MUS"
 - StarId: 1
+
+## Development Infot s
+- Truffle: v5.4.8
+- Solidity: v0.5.16
+- Node: v14.17.6
+- Web3js: v1.5.2
