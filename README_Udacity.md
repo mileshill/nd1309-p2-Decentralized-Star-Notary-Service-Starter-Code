@@ -11,3 +11,4 @@
 - Solidity: v0.5.16
 - Node: v14.17.6
 - Web3js: v1.5.2
+- openzeppelin-solidity: 2.3
